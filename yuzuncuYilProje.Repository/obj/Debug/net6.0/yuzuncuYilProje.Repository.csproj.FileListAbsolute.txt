@@ -1,0 +1,17 @@
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Repository\bin\Debug\net6.0\yuzuncuYilProje.Repository.deps.json
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Repository\bin\Debug\net6.0\yuzuncuYilProje.Repository.runtimeconfig.json
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Repository\bin\Debug\net6.0\yuzuncuYilProje.Repository.dll
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Repository\bin\Debug\net6.0\yuzuncuYilProje.Repository.pdb
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Repository\bin\Debug\net6.0\yuzuncuYilProje.Core.dll
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Repository\bin\Debug\net6.0\yuzuncuYilProje.Core.pdb
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Repository\obj\Debug\net6.0\yuzuncuYilProje.Repository.csproj.AssemblyReference.cache
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Repository\obj\Debug\net6.0\yuzuncuYilProje.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Repository\obj\Debug\net6.0\yuzuncuYilProje.Repository.AssemblyInfoInputs.cache
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Repository\obj\Debug\net6.0\yuzuncuYilProje.Repository.AssemblyInfo.cs
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Repository\obj\Debug\net6.0\yuzuncuYilProje.Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Repository\obj\Debug\net6.0\yuzuncuYilProje.Repository.csproj.CopyComplete
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Repository\obj\Debug\net6.0\yuzuncuYilProje.Repository.dll
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Repository\obj\Debug\net6.0\refint\yuzuncuYilProje.Repository.dll
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Repository\obj\Debug\net6.0\yuzuncuYilProje.Repository.pdb
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Repository\obj\Debug\net6.0\yuzuncuYilProje.Repository.genruntimeconfig.cache
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Repository\obj\Debug\net6.0\ref\yuzuncuYilProje.Repository.dll

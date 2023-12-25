@@ -1,0 +1,17 @@
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Service\bin\Debug\net6.0\yuzuncuYilProje.Service.deps.json
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Service\bin\Debug\net6.0\yuzuncuYilProje.Service.dll
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Service\bin\Debug\net6.0\yuzuncuYilProje.Service.pdb
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Service\bin\Debug\net6.0\yuzuncuYilProje.Core.dll
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Service\bin\Debug\net6.0\yuzuncuYilProje.Repository.dll
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Service\bin\Debug\net6.0\yuzuncuYilProje.Repository.pdb
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Service\bin\Debug\net6.0\yuzuncuYilProje.Core.pdb
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Service\obj\Debug\net6.0\yuzuncuYilProje.Service.csproj.AssemblyReference.cache
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Service\obj\Debug\net6.0\yuzuncuYilProje.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Service\obj\Debug\net6.0\yuzuncuYilProje.Service.AssemblyInfoInputs.cache
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Service\obj\Debug\net6.0\yuzuncuYilProje.Service.AssemblyInfo.cs
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Service\obj\Debug\net6.0\yuzuncuYilProje.Service.csproj.CoreCompileInputs.cache
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Service\obj\Debug\net6.0\yuzuncuYilProje.Service.csproj.CopyComplete
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Service\obj\Debug\net6.0\yuzuncuYilProje.Service.dll
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Service\obj\Debug\net6.0\refint\yuzuncuYilProje.Service.dll
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Service\obj\Debug\net6.0\yuzuncuYilProje.Service.pdb
+C:\Users\user\yuzuncuYilProje\yuzuncuYilProje.Service\obj\Debug\net6.0\ref\yuzuncuYilProje.Service.dll
